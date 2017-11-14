@@ -1,1 +1,1 @@
-# Praktikum Pemrograman 2 (Typing Syntax)
+# Praktikum Pemrograman 3 (Typing Syntax)
